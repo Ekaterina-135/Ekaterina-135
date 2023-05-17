@@ -1,5 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Ekaterina</h1>
 <h3 align="center">I am a junior data analyst</h3>
+
 
 ### About me
 - 🌱 I’m currently learning SQL, Tableau
