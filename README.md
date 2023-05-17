@@ -1,4 +1,5 @@
 ### Hi there 👋
+<h3 align="center">I am a junior data analyst</h3>
 ### About me
 - 🌱 I’m currently learning SQL, Tableau
 - 👯 I’m looking to collaborate on interesting projects
