@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Kate</h1>
-<h3 align="left">I am a junior data analyst</h3>
+<h3 align="left">I am a data analyst</h3>
 
 
 ### About me
