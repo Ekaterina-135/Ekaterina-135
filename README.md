@@ -3,7 +3,7 @@
 
 
 ### About me
-- 🌱 I’m currently learning SQL,Python, YDL
+- 🌱 I’m currently learning SQL, Python
 - 👯 I’m looking to collaborate on interesting projects
 - 💬 Ask me about my projects
 - 📫 How to reach me: [email](mailto:katrin-135@list.ru)
